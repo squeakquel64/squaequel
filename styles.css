@@ -1,13 +1,11 @@
 p {
-    font-family: Helvetica, Geneva, Arial,
-    SunSans-Regular, sans-serif;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 	text-align: center;
 	color: white
 }
 
 h1 {
-    font-family: Helvetica, Geneva, Arial,
-    SunSans-Regular, sans-serif;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 	text-align: center;
 	color: white
 }
@@ -15,4 +13,10 @@ h1 {
 body {
 	background-image: url('assets/tumblr_p1r7bcLaUW1wz1x3zo3_400.gif');
 	background-repeat;
+}
+
+h2 {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	text-align: center;
+	color: white
 }
